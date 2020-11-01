@@ -10,7 +10,7 @@
 			<div class="navbar-header">
 		 	
 	 		<ul class="nav navbar-nav">
-	 		  <li> <a class="navbar-brand" href="<?php echo base_url(); ?>/">Ruumid</a></li>
+	 		  <li> <a class="navbar-brand" href="<?php echo base_url(); ?>">Ruumid</a></li>
 		      <li><a class="navbar-brand" href="<?php echo base_url(); ?>">Home </a></li>
 		      <li><a class="navbar-brand" href="<?php echo base_url(); ?>about">About </a></li>
 		      <li><a class="navbar-brand" href="<?php echo base_url(); ?>posts">Blog </a></li>
